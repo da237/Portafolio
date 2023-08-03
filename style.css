@@ -176,12 +176,3 @@ body{
     font-size: 30px;
 }
 
-/* Education */
-
-.Education{
-    display: flex;
-    height: 100vh;
-    align-items: center;
-    padding: 0 10%;
-}
-
